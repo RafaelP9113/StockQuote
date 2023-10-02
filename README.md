@@ -15,6 +15,10 @@ Este é um aplicativo de console que monitora a cotação de um ativo da B3 e en
    Certifique-se de ter o .NET Core SDK instalado em sua máquina.
 
 2. **Compilação e Execução**
+   
+   Atualize as credenciais de envio de email
+
+3. **Compilação e Execução**
 
    Abra um terminal na pasta do projeto e execute o seguinte comando:
 
