@@ -1,0 +1,12 @@
+C:\Users\User\Documents\GitHub\StockQuote\StockQuote\StockQuote.Domain\bin\Debug\net6.0\StockQuote.Domain.deps.json
+C:\Users\User\Documents\GitHub\StockQuote\StockQuote\StockQuote.Domain\bin\Debug\net6.0\StockQuote.Domain.dll
+C:\Users\User\Documents\GitHub\StockQuote\StockQuote\StockQuote.Domain\bin\Debug\net6.0\StockQuote.Domain.pdb
+C:\Users\User\Documents\GitHub\StockQuote\StockQuote\StockQuote.Domain\obj\Debug\net6.0\StockQuote.Domain.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\StockQuote\StockQuote\StockQuote.Domain\obj\Debug\net6.0\StockQuote.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\StockQuote\StockQuote\StockQuote.Domain\obj\Debug\net6.0\StockQuote.Domain.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\StockQuote\StockQuote\StockQuote.Domain\obj\Debug\net6.0\StockQuote.Domain.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\StockQuote\StockQuote\StockQuote.Domain\obj\Debug\net6.0\StockQuote.Domain.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\StockQuote\StockQuote\StockQuote.Domain\obj\Debug\net6.0\StockQuote.Domain.dll
+C:\Users\User\Documents\GitHub\StockQuote\StockQuote\StockQuote.Domain\obj\Debug\net6.0\refint\StockQuote.Domain.dll
+C:\Users\User\Documents\GitHub\StockQuote\StockQuote\StockQuote.Domain\obj\Debug\net6.0\StockQuote.Domain.pdb
+C:\Users\User\Documents\GitHub\StockQuote\StockQuote\StockQuote.Domain\obj\Debug\net6.0\ref\StockQuote.Domain.dll

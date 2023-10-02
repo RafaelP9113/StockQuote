@@ -1,0 +1,52 @@
+
+        <!DOCTYPE html>
+        <html>
+        <head>
+          <title>Gráfico de Área</title>
+          <script src='https://cdn.jsdelivr.net/npm/chart.js'></script>
+        </head>
+        <body>
+          <canvas id='areaChart' width='400' height='200'></canvas>
+
+          <script>
+            const ctx = document.getElementById('areaChart').getContext('2d');
+            const chart = new Chart(ctx, {
+                type: 'line',
+                data: {
+                    labels: ['Cotação'],
+                    datasets: [{
+                        label: 'Cotação',
+                        data: [1712300],
+                        borderColor: 'rgba(75, 192, 192, 1)',
+                        backgroundColor: 'rgba(75, 192, 192, 0.2)',
+                        borderWidth: 1,
+                        fill: true
+                    },
+                    {
+                        label: 'Valor de Venda',
+                        data: Array(1).fill(200000),
+                        borderColor: 'rgba(192, 75, 192, 1)',
+                        backgroundColor: 'rgba(192, 75, 192, 0.2)',
+                        borderWidth: 1,
+                        fill: true
+                    },
+                    {
+                        label: 'Valor de Compra',
+                        data: Array(1).fill(100000),
+                        borderColor: 'rgba(75, 192, 192, 1)',
+                        backgroundColor: 'rgba(75, 192, 192, 0.2)',
+                        borderWidth: 1,
+                        fill: true
+                    }]
+                },
+                options: {
+                    scales: {
+                        y: {
+                            beginAtZero: false
+                        }
+                    }
+                }
+            });
+          </script>
+        </body>
+        </html>

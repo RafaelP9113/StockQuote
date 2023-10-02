@@ -1,0 +1,15 @@
+C:\Users\User\Documents\GitHub\StockQuote\StockQuote\StockQuote.Application\bin\Release\net6.0\StockQuote.Application.deps.json
+C:\Users\User\Documents\GitHub\StockQuote\StockQuote\StockQuote.Application\bin\Release\net6.0\StockQuote.Application.dll
+C:\Users\User\Documents\GitHub\StockQuote\StockQuote\StockQuote.Application\bin\Release\net6.0\StockQuote.Application.pdb
+C:\Users\User\Documents\GitHub\StockQuote\StockQuote\StockQuote.Application\bin\Release\net6.0\StockQuote.Domain.dll
+C:\Users\User\Documents\GitHub\StockQuote\StockQuote\StockQuote.Application\bin\Release\net6.0\StockQuote.Domain.pdb
+C:\Users\User\Documents\GitHub\StockQuote\StockQuote\StockQuote.Application\obj\Release\net6.0\StockQuote.Application.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\StockQuote\StockQuote\StockQuote.Application\obj\Release\net6.0\StockQuote.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\StockQuote\StockQuote\StockQuote.Application\obj\Release\net6.0\StockQuote.Application.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\StockQuote\StockQuote\StockQuote.Application\obj\Release\net6.0\StockQuote.Application.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\StockQuote\StockQuote\StockQuote.Application\obj\Release\net6.0\StockQuote.Application.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\StockQuote\StockQuote\StockQuote.Application\obj\Release\net6.0\StockQuote.Application.csproj.CopyComplete
+C:\Users\User\Documents\GitHub\StockQuote\StockQuote\StockQuote.Application\obj\Release\net6.0\StockQuote.Application.dll
+C:\Users\User\Documents\GitHub\StockQuote\StockQuote\StockQuote.Application\obj\Release\net6.0\refint\StockQuote.Application.dll
+C:\Users\User\Documents\GitHub\StockQuote\StockQuote\StockQuote.Application\obj\Release\net6.0\StockQuote.Application.pdb
+C:\Users\User\Documents\GitHub\StockQuote\StockQuote\StockQuote.Application\obj\Release\net6.0\ref\StockQuote.Application.dll

@@ -1,0 +1,15 @@
+C:\Users\User\Documents\GitHub\StockQuote\StockQuote\StockQuote.Infrastructure\bin\Debug\net6.0\StockQuote.Infrastructure.deps.json
+C:\Users\User\Documents\GitHub\StockQuote\StockQuote\StockQuote.Infrastructure\bin\Debug\net6.0\StockQuote.Infrastructure.dll
+C:\Users\User\Documents\GitHub\StockQuote\StockQuote\StockQuote.Infrastructure\bin\Debug\net6.0\StockQuote.Infrastructure.pdb
+C:\Users\User\Documents\GitHub\StockQuote\StockQuote\StockQuote.Infrastructure\bin\Debug\net6.0\StockQuote.Domain.dll
+C:\Users\User\Documents\GitHub\StockQuote\StockQuote\StockQuote.Infrastructure\bin\Debug\net6.0\StockQuote.Domain.pdb
+C:\Users\User\Documents\GitHub\StockQuote\StockQuote\StockQuote.Infrastructure\obj\Debug\net6.0\StockQuote.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\StockQuote\StockQuote\StockQuote.Infrastructure\obj\Debug\net6.0\StockQuote.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\StockQuote\StockQuote\StockQuote.Infrastructure\obj\Debug\net6.0\StockQuote.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\StockQuote\StockQuote\StockQuote.Infrastructure\obj\Debug\net6.0\StockQuote.Infrastructure.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\StockQuote\StockQuote\StockQuote.Infrastructure\obj\Debug\net6.0\StockQuote.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\StockQuote\StockQuote\StockQuote.Infrastructure\obj\Debug\net6.0\StockQuote.Infrastructure.csproj.CopyComplete
+C:\Users\User\Documents\GitHub\StockQuote\StockQuote\StockQuote.Infrastructure\obj\Debug\net6.0\StockQuote.Infrastructure.dll
+C:\Users\User\Documents\GitHub\StockQuote\StockQuote\StockQuote.Infrastructure\obj\Debug\net6.0\refint\StockQuote.Infrastructure.dll
+C:\Users\User\Documents\GitHub\StockQuote\StockQuote\StockQuote.Infrastructure\obj\Debug\net6.0\StockQuote.Infrastructure.pdb
+C:\Users\User\Documents\GitHub\StockQuote\StockQuote\StockQuote.Infrastructure\obj\Debug\net6.0\ref\StockQuote.Infrastructure.dll
